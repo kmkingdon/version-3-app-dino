@@ -12,7 +12,7 @@ const Form= (props) => {
       <button id="preview-toggle" onClick={props.handleClick}>Show Preview</button>
       <section id="application-preview" className="hidden">{props.application}</section>
     </div>
-  )
+  );
 }
 
 export default Form;

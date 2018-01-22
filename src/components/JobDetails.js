@@ -7,7 +7,7 @@ const JobDetails= (props) => {
       <h4>{props.listing.title}</h4>
       <p>{props.listing.description}</p>
     </section>
-  )
+  );
 }
 
-export default JobDetails
+export default JobDetails;

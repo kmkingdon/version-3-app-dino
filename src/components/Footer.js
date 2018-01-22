@@ -5,7 +5,7 @@ const Footer= (props) => {
     <footer>
       <small>Copyright 2018</small>
     </footer>
-  )
+  );
 }
 
-export default Footer
+export default Footer;
